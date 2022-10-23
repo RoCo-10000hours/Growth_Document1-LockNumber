@@ -14,4 +14,4 @@
 <img width="270" alt="AsyncImage활용(2)" src="https://user-images.githubusercontent.com/114223996/197387995-9a7bf4c8-a5d2-4036-b0a6-c769fcf22310.png">
 
 ### **6 Step(Finish)**
-<img width="261" alt="추가 수정(사용자환경고려)" src="https://user-images.githubusercontent.com/114223996/197387999-f5c28a86-210d-4349-a018-98cc39b9537a.png">
+<img width="261" alt="추가 수정(사용자환경고려)" src="https://user-images.githubusercontent.com/114223996/197387999-f5c28a86-210d-4349-a018-98cc39b9537a.png">.
